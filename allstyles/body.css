@@ -181,6 +181,74 @@ body{
       width: 100%;
     }
   }
+
+  .topreviews {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .topreviews h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 0 20px;
+    text-align: center;
+  }
+  
+  .review-grid {
+    display: grid;
+    grid-template-columns: repeat( 3, 1fr);
+    gap: 20px;
+  }
+  
+  .review-grid div {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  @media screen and (max-width: 768px) {
+  .review-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .review-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+#toprow{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 0;
+  border: none;
+}
+
+#thumbnail {
+  /* width: 80px; */
+  height: 60px;
+  border: none;
+  background-color: rgb(90, 114, 114);
+  border-radius: 20px;
+}
+#thumbnail h4{
+  color: #ffffff;
+  padding: 3px;
+}
+
+
+
+
+
+
+
+  
   
   
   
