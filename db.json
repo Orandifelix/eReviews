@@ -1,0 +1,503 @@
+{
+"jumia":[{
+    "id": 1,
+    "name": "Caroline",
+    "stars":3,
+    "reviewtittle":"Can't report issue",
+    "review": "Seller didn't ship so after the handling time had past I contacted them. They told me they don't have the item and can't figure out how to cancel the sale. Ebay removed the 'item has not arrived option' for me to report even when it hasn't arrived on their due date."
+},
+{
+    "id": 2,
+    "name": "Gershon Wayne",
+    "stars":3,
+    "reviewtittle":"This site is really good for online",
+    "review": "This site is really good for online sales. They are very reliable no matter where you are they will bring you your goods .I recommend jumai for every company and household."
+},
+{
+    "id": 3,
+    "name": "Lambertini",
+    "stars":3,
+    "reviewtittle":"Great app for purchasing all items.",
+    "review": "Great app for purchasing all items... Makes online selling sweet and affordable safe and fast way to buy products..."
+},
+{
+    "id": 4,
+    "name": "Issah Bukari",
+    "stars":3,
+    "reviewtittle":"Very reliable",
+    "review": "Very reliable, you can be sure of the delivery where ever you are in the country."
+},
+{
+    "id": 5,
+    "name": "Osei Owusu",
+    "stars":3,
+    "reviewtittle":"Accurate and fast delivery",
+    "review": "Accurate and fast delivery. i'm truly satisfied with their services."
+},
+{
+    "id": 6,
+    "name": "Fabrice Frank",
+    "stars":3,
+    "reviewtittle":"Crooks",
+    "review": "No invoice, no warranty, and if you write a bad review it never appears on the website... How do you call it? Crooks!"
+},
+{
+    "id": 7,
+    "name": "James",
+    "stars":3,
+    "reviewtittle":"Best experience",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+}
+],
+"walmart":[{
+    "id": 1,
+    "name": "Mark Fader",
+    "stars":3,
+    "reviewtittle":"Good Service RUINED by no training",
+    "review": "I'd say every time over at least the past 6 months I've had problems with my deliveries. Drivers don't follow delivery instructions."
+},
+{
+    "id": 2,
+    "name": "Karey Netz",
+    "stars":3,
+    "reviewtittle":"OVERCHARGED EVERY TIME!!",
+    "review": "Just a warning..when you order online for grocery pick up or delivery...be prepared to be temporarily charged $100 more than your total actually is! They give some kind of B.S. about things could cost more. While in the meantime...your bank account could be in trouble! All to make interst on everyone else's dollar. SCAM!"
+},
+{
+    "id": 3,
+    "name": "Owen",
+    "stars":3,
+    "reviewtittle":"Thanks to Russel the muscle",
+    "review": "Thank you Russel we have good funny conversation every time we go there and he delivers our orders I have fun when I go to the tell city Walmart"
+},
+{
+    "id": 4,
+    "name": "Charlse",
+    "stars":3,
+    "reviewtittle":"This is one store I’ll rate up too",
+    "review": "This is one store I’ll rate up too this I love too d my grocery shopping there cause they have a high standard security and are always equal too the task"
+},
+{
+    "id": 5,
+    "name": "James",
+    "stars":3,
+    "reviewtittle":"My ordering expereince",
+    "review": "You guys do a really good job with shipping and fast service. Id say you guys are faster then amazon and not so complicated just order n go me personaly Walmart packaging sevices are better then amazon because they are so slow."
+},
+{
+    "id": 6,
+    "name": "Benjamin",
+    "stars":3,
+    "reviewtittle":"I love Walmart it's my favorite store",
+    "review": "I love Walmart it's my favorite store I get great deals and I love spending time in there shopping and looking at the new products and deals there's nothing like saving money when times are getting hard"
+},
+{
+    "id": 7,
+    "name": "Jameson",
+    "stars":3,
+    "reviewtittle":"Good price Terrible service!",
+    "review": "The prices are pretty good, but the service is just terrible! I waited 4 hours to have tired installed and the tech complained the whole time that he shouldnt install the tires on my rims because they are out of balance. I have a work van and steel rims this should be very easy. I should have went to a local tire shop."
+}
+],
+"jiji":[{
+    "id": 1,
+    "name": "Dan m",
+    "stars":3,
+    "reviewtittle":"WARNING DO NOT BUY HERE!!",
+    "review": "WARNING DO NOT BUY THIS!!! This is false advertising!!! The title say Zojirushi stainless steel mug, but it is a CHINESE KNOCK OFF!!! "
+},
+{
+    "id": 2,
+    "name": "Jay",
+    "stars":3,
+    "reviewtittle":"Service delivery",
+    "review": "Nice marketplace. Receive products before paying that's all you will be fine. And ensure you meet In an open place. Overall its better than other platforms"
+},
+{
+    "id": 3,
+    "name": "Edward B",
+    "stars":3,
+    "reviewtittle":"Stay away from these guys.",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+},
+{
+    "id": 4,
+    "name": "Peace A.",
+    "stars":3,
+    "reviewtittle":"Great Service",
+    "review": "I like that transactions are completed on delivery and I can see what I got before paying for it. Great platform overall"
+
+},
+{
+    "id": 5,
+    "name": "Ebenezer E.",
+    "stars":3,
+    "reviewtittle":"Very safe",
+    "review": "The fact that you'd need to meet the seller/buyer face to face before receiving/paying for the item is amazing! Great job guys!"
+},
+{
+    "id": 6,
+    "name": "Abdul L",
+    "stars":3,
+    "reviewtittle":"Very poor service",
+    "review": "I tried to buy a cd duplicator through jiji but the seller kept pushing me around. I went to the shop he said he went out that the item would be delivered to my office. That was 3 months ago. Luckily I didn't pay a dime except the waste of my precious time."
+},
+{
+    "id": 7,
+    "name": "Olivia O",
+    "stars":3,
+    "reviewtittle":"Best platform to buy online",
+    "review": "So i was searching for electronics stores around magodo (as i just moved in recently and new in the environment). I decided to check for online stores and found great ads on jiji. I placed a call to the guy selling and the rest was history. I have my brand new TV set with even stepping out of my home."
+}
+],
+"alibaba":[{
+    "id": 1,
+    "name": "RKG",
+    "stars":3,
+    "reviewtittle":"great product",
+    "review": "I ordered jute placemats and was nervous about the delivery time and what the quality would be. The mats arrived earlier than expected and the placemats exceeded my expectations. I bought the placemats directly from the manufacturer for less than half the local rental rate."
+},
+{
+    "id": 2,
+    "name": "J De Bruin",
+    "stars":3,
+    "reviewtittle":"Delivered as promised",
+    "review": "Delivered as promised. Printer very good professional quality, affordable price and easy to install. Eva is very helpfull and quick answers on questions :) thanx!"
+},
+{
+    "id": 3,
+    "name": "Nisa",
+    "stars":3,
+    "reviewtittle":"Phenomenal Customer Service",
+    "review": "Their customer service really set them apart for me. Winnie Zhang was exceptional in answering questions and providing guidance throughout the entire process."
+},
+{
+    "id": 4,
+    "name": "Andre Nakaso",
+    "stars":3,
+    "reviewtittle":"Very professional and positive",
+    "review": "Very professional and positive experience working with this supplier. Nice quality product, fast communications and replies to our questions. Would definately recommend to others."
+},
+{
+    "id": 5,
+    "name": "Schiefer",
+    "stars":3,
+    "reviewtittle":"Once again everything is fine",
+    "review": "No problem! Very good product and no complaints. Smooth processing as previously agreed and very good service. No long waiting times for clarification of questions about the article. Gladly again! Thank you Huang-san."
+},
+{
+    "id": 6,
+    "name": "Maria Antonieta",
+    "stars":3,
+    "reviewtittle":"I love the electric bath chair!",
+    "review": "I love the product (electric bath chair for the disabled people) and the top of the line service."
+},
+{
+    "id": 7,
+    "name": "Rose Maglente",
+    "stars":3,
+    "reviewtittle":"I'm satisfied",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+}
+],
+"amazon":[{
+    "id": 1,
+    "name": "TG",
+    "stars":3,
+    "reviewtittle":"From start to delivery",
+    "review": "From start to delivery, a smooth process. All questions answered and great service. No issues with language barriers. Products arrived very well packaged, no damage in transit from initail breif inspection. I woudl be happy to recomend."
+},
+{
+    "id": 2,
+    "name": "Kinsley",
+    "stars":3,
+    "reviewtittle":"Just as ordered",
+    "review": "Just as ordered! Shipped quickly! Representative was professional and efficient!"
+},
+{
+    "id": 3,
+    "name": "Zuleika",
+    "stars":3,
+    "reviewtittle":"Great quality and design",
+    "review": "Great quality and design. I was surprised with it and it came before the delivery date. I am super happy with everything and would be ordering more in the near future"
+},
+{
+    "id": 4,
+    "name": "Jake",
+    "stars":3,
+    "reviewtittle":"Great Price, Customer Service, And Parts.",
+    "review": "The customer service from Amanda was excellent and the parts produced from the mold were perfect - all for a price that was among the lowest quotes we received. All around, an excellent experience."
+},
+{
+    "id": 5,
+    "name": "Shroomer Man",
+    "stars":3,
+    "reviewtittle":"Really good processing!",
+    "review": "We were able to bring both of our expertise together to create a great product. They provided me with many options and were able to put together my order with excellent quality!"
+},
+{
+    "id": 6,
+    "name": "John",
+    "stars":3,
+    "reviewtittle":"Excellent Quality",
+    "review": "From the minute we started with the design of the mug to the finished product - they were great. Helpful in each stage of the process. Could not have been better."
+},
+{
+    "id": 7,
+    "name": "Ernst",
+    "stars":3,
+    "reviewtittle":"Very professional and kind supplier",
+    "review": "We ordered furniture for a new hair saloon and the lady who helped us was so professional, kind and helpful that I would recommend everyone to use this supplier. The shipment was on time and now waiting for the goods to arrive in Belgium"
+}
+],
+"etsy":[{
+    "id": 1,
+    "name": "Deena",
+    "stars":3,
+    "reviewtittle":"Super reliable seller and great product",
+    "review": "Super reliable seller, excellent product condition and fast delivery. It was like buying on etsy or any other type of local service. Im very impressed. (Delivered to Toronto Canada)"
+},
+{
+    "id": 2,
+    "name": "Darren",
+    "stars":3,
+    "reviewtittle":"This was fast and easy",
+    "review": "This was fast and easy. The sight kept me updated all the way through the order, shipping and delivery process."
+},
+{
+    "id": 3,
+    "name": "Melissa",
+    "stars":3,
+    "reviewtittle":"Service was efficient and professional",
+    "review": "Service was efficient and professional. Delivery arrived ahead of time and the product was great quality and exactly as we ordered."
+},
+{
+    "id": 4,
+    "name": "Louis",
+    "stars":3,
+    "reviewtittle":"very fast",
+    "review": "I have to congratulate you, I have never received a product so quickly, I congratulate you, I hope it is a quality that will not be lost over time, taking advantage of this instance, I ask you if this delivery with this speed is for any product that I buy with you?"
+},
+{
+    "id": 5,
+    "name": "Sam Qw",
+    "stars":3,
+    "reviewtittle":"Very Reliable Company Quality Consistent",
+    "review": "Having purchased over the past 9 years on here this company has proven consistency with all the products we use. Easy to relay our needs and replies that feel like you are talking to someone real and not copy paste translation."
+},
+{
+    "id": 6,
+    "name": "Jared",
+    "stars":3,
+    "reviewtittle":"Best offers",
+    "review": "They have fulfilled many orders and we will continue to do business with only this company. Fast payment links, fast shipping in Fedex or DHL hands with proper Customs documentation to insure speedy delivery. Happy customer"
+},
+{
+    "id": 7,
+    "name": "Larry",
+    "stars":3,
+    "reviewtittle":"Best experience",
+    "review": "Though the packaging is a bit of problem, The supplier are willing to solve the issue and will follow up with it."
+}
+],
+"killmall":[{
+    "id": 1,
+    "name": "Mr Anmol",
+    "stars":3,
+    "reviewtittle":"Suppliers for beginners as well",
+    "review": "The supplier was great to deal with. I was made so comfortable during the whole process altogether. Highly recommend."
+},
+{
+    "id": 2,
+    "name": "Ryan Smith",
+    "stars":3,
+    "reviewtittle":"I forgot the date",
+    "review": "They delivered something I've been wanting for a very long time at a very fair price and with great customer service."
+},
+{
+    "id": 3,
+    "name": "James",
+    "stars":3,
+    "reviewtittle":"Best experience",
+    "review": "Fast shipment and turn around. High quality leather and the design was extremely accurate."
+},
+{
+    "id": 4,
+    "name": "Erik",
+    "stars":3,
+    "reviewtittle":"Easy to work with",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+},
+{
+    "id": 5,
+    "name": "Mark",
+    "stars":3,
+    "reviewtittle":"Good company!",
+    "review": "My overall experience with ordering from killmall was good. The vendor assisted me throughout the ordering process and shipping."
+},
+{
+    "id": 6,
+    "name": "Martinez",
+    "stars":3,
+    "reviewtittle":"Easy process",
+    "review": "I am recomending this company about service, quality and fast shipping, additionaly the kind attention of Jessie"
+},
+{
+    "id": 7,
+    "name": "Clare",
+    "stars":3,
+    "reviewtittle":"Miles ahead of others",
+    "review": "They take customer support and customer experience to a completely different level. The services and options provided by Alibaba simply have no match in today's market and that is why I source as much as possible through them."
+}
+],
+"copia":[{
+    "id": 1,
+    "name": "Oscar",
+    "stars":3,
+    "reviewtittle":"All in one place",
+    "review": "Easy to find products and manufacturers. FOllow up is very useful and all the tools available to connect and exchange requirements and points of view."
+},
+{
+    "id": 2,
+    "name": "Jose",
+    "stars":3,
+    "reviewtittle":"Exellent job done.",
+    "review": "An excellent job, very good result and great communication throughout the design process by copia. Fast shipping. Highly recommended company."
+},
+{
+    "id": 3,
+    "name": "Sharon",
+    "stars":3,
+    "reviewtittle":"Really very satisfied",
+    "review": "Really very satisfied with the products received that without surprise conform to those ordered. I am very satisfied with the quality of the products I received and I would recommend this supplier."
+},
+{
+    "id": 4,
+    "name": "Fred",
+    "stars":3,
+    "reviewtittle":"Better than expected device",
+    "review": "This company shipped immediately and followed up with clear expectations. the device itself is in good working order and easy to use. this is a high quality company to deal with."
+},
+{
+    "id": 5,
+    "name": "Yamel",
+    "stars":3,
+    "reviewtittle":"Good support and service",
+    "review": "Good support and service, product delivery as expected, a reliable supplier to do business with."
+},
+{
+    "id": 6,
+    "name": "ASI",
+    "stars":3,
+    "reviewtittle":"Professional job.",
+    "review": "Great experience working with this company for developing a customized exclusive product."
+},
+{
+    "id": 7,
+    "name": "Johnstone Nyamai",
+    "stars":3,
+    "reviewtittle":"Timely and fair",
+    "review": "It was timely and I have never been a victim of fraud despite being a novice."
+}
+],
+"ebay":[{
+    "id": 1,
+    "name": "Ricardo Joao",
+    "stars":3,
+    "reviewtittle":"No protection for the buyer",
+    "review": "Ebay approved a purchase and then suspended my account with no further information. I lost all protection against the seller for defects in the purchased item. Profoundly unprofessional."
+},
+{
+    "id": 2,
+    "name": "John in the Backyard",
+    "stars":3,
+    "reviewtittle":"EBAY is unresponsive",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+},
+{
+    "id": 3,
+    "name": "James",
+    "stars":3,
+    "reviewtittle":"I Know i can Trust eBay for Online Shopping.",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+},
+{
+    "id": 4,
+    "name": "customer",
+    "stars":3,
+    "reviewtittle":"Best experience",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+},
+{
+    "id": 5,
+    "name": "eris joel",
+    "stars":3,
+    "reviewtittle":"A lot of bad sellers on eBay",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+},
+{
+    "id": 6,
+    "name": "Sarah",
+    "stars":3,
+    "reviewtittle":"Great selling app",
+    "review": "Great selling app. I bought a few bulk clothes and they gave me tons, in which I was thrilled about. The only problem I had with buying items is that some people harass you to pay once they accept the offer you give them."
+},
+{
+    "id": 7,
+    "name": "James",
+    "stars":3,
+    "reviewtittle":"Stay away",
+    "review": "Everything I order on ebay I never receive item been ripped off 3 times"
+}
+],
+"zappos":[{
+    "id": 1,
+    "name": "rose robbins",
+    "stars":3,
+    "reviewtittle":"Zappos is not what it used to be",
+    "review": "I ordered a pair of (relatively) expensive sandals. They took 10 days to arrive (unlike Zappos’ usual 2-day shipping). The sandals arrived in a large cardboard box, with a single piece of tissue paper thrown in. No shoebox. No tissue form in the sandals. They looked run-over. Worse yet, I emailed Zappos Customer Service about my experience and had no response at all."
+},
+{
+    "id": 2,
+    "name": "Kerri",
+    "stars":3,
+    "reviewtittle":"Customer service was great",
+    "review": "Maria in Customer service department was great! I reached out via chat option, and she was able to help me out and fix my issue within 5 minutes. Great service, you normally don’t come across such stellar service with online retailers. I will be ordering again and Maria deserves a shout out for being so friendly and knowledgeable."
+},
+{
+    "id": 3,
+    "name": "Denise Fuentes",
+    "stars":3,
+    "reviewtittle":"Great shoes and great items we shop",
+    "review": "Great shoes and great items we shop many time and very happy with it ;) will be back for sure"
+},
+{
+    "id": 4,
+    "name": "James",
+    "stars":3,
+    "reviewtittle":"Zappos is the best!",
+    "review": "I have had nothing but great experiences with Zappo. Prompt shipping; free returns; great selection! I have ordered numerous times over several years, without ever having a problem. Highly recommend!"
+},
+{
+    "id": 5,
+    "name": "CJ",
+    "stars":3,
+    "reviewtittle":"Best experience",
+    "review": "It was personal and friendly and genuine. Great people to work with and interact with."
+},
+{
+    "id": 6,
+    "name": "Tom Reilly",
+    "stars":3,
+    "reviewtittle":"Failure to meet expected delivery timeline",
+    "review": "I have had two frustrating ordering experiences with Zappos. They have been unable to fulfill my orders by meeting the dates originally promised. I even chatted online with a representative and assured of the delivery date only to be disappointed. I will avoid ordering shoes from Zappos in the future"
+},
+{
+    "id": 7,
+    "name": "Brett",
+    "stars":3,
+    "reviewtittle":"Zappos used to be a fast",
+    "review": "Zappos used to be a fast, affordable and reliable company. I have found recently there is a lot of unnecessary delays and chaos."
+}
+]
+} 
